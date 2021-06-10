@@ -1,0 +1,9 @@
+Files dist/linux-5.0.21/arch/x86/entry/syscalls/syscall_64.tbl and /home/brinkm1/pp2-mkpatch/work/linux-5.0.21/arch/x86/entry/syscalls/syscall_64.tbl differ
+Only in /home/brinkm1/pp2-mkpatch/work/linux-5.0.21/certs: signing_key.pem
+Only in /home/brinkm1/pp2-mkpatch/work/linux-5.0.21/certs: signing_key.x509
+Only in /home/brinkm1/pp2-mkpatch/work/linux-5.0.21/certs: x509.genkey
+Only in /home/brinkm1/pp2-mkpatch/work/linux-5.0.21: .config
+Only in /home/brinkm1/pp2-mkpatch/work/linux-5.0.21: first.config
+Files dist/linux-5.0.21/include/linux/sched.h and /home/brinkm1/pp2-mkpatch/work/linux-5.0.21/include/linux/sched.h differ
+Files dist/linux-5.0.21/init/init_task.c and /home/brinkm1/pp2-mkpatch/work/linux-5.0.21/init/init_task.c differ
+Files dist/linux-5.0.21/kernel/sys.c and /home/brinkm1/pp2-mkpatch/work/linux-5.0.21/kernel/sys.c differ
